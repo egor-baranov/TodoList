@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#c5cae9</color>
+    <color name="colorPrimaryDark">#9499b7</color>
+    <color name="colorPrimaryLight">#f8fdff</color>
+
+    <color name="colorSecondary">#e1bee7</color>
+    <color name="colorSecondaryDark">#af8eb5</color>
+    <color name="colorSecondaryLight">#fff1ff</color>
+
+    <color name="colorAccent">#b39ddb</color>
+    <color name="darkThemeBackground">#121212</color>
+    <color name="darkThemeForeground">#323232</color>
+    <color name="dartListItemColor">#505050</color>
+    <color name="white">#FFFFFF</color>
 </resources>
